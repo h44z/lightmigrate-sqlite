@@ -1,0 +1,4 @@
+github.com/h44z/lightmigrate v1.0.0 h1:wvkXvySwUTUuEMx0MAZaXzLa8vqspy0g5KwVfqLnpWQ=
+github.com/h44z/lightmigrate v1.0.0/go.mod h1:2QbrB1JaoGU+2kWOqf98jeULUSzJtdxovMYbdCwPyaE=
+github.com/mattn/go-sqlite3 v1.14.15 h1:vfoHhTN1af61xCRSWzFIWzx2YskyMTwHLrExkBOjvxI=
+github.com/mattn/go-sqlite3 v1.14.15/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
